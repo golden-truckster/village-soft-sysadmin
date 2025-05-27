@@ -20,3 +20,12 @@ PowerShell Admin Scripts
 Лицензия: MIT — бери, используй, делись!
 
 ————————
+################################################################################################################################################################
+————————
+
+Disclaimer
+
+This project is provided "as is", at your own risk — no warranties or claims accepted.  
+Most of the code was generated with ChatGPT. If you notice a mistake, please open an issue!
+
+————————
