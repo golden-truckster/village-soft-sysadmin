@@ -4,20 +4,20 @@
 
 PowerShell Admin Scripts
 
-Коллекция полезных скриптов и заметок для автоматизации и администрирования через PowerShell. Всё для системных админов и тех, кто хочет автоматизировать рутину 🚀
+A collection of useful scripts and notes for automation and administration through PowerShell. Everything for systemic admins and those who want to automate routine 🚀
 
-Быстрый старт:
-⦁ Клонируй репозиторий
-⦁ Запусти скрипты из папки scripts/ через PowerShell
-⦁ Используй Get-Help для справки по командам
+Quick Start:
+⦁ Clon the repository
+⦁ Launch scripts from the Scripts/ Powershell folder
+⦁ Use Get-Shelp to refer to commands
 
-Примеры задач:
-⦁ Управление процессами и службами
-⦁ Работа с файлами и папками
-⦁ Автоматизация типовых задач
-⦁ Настройка системы
+Examples of tasks:
+⦁ Process and services management
+⦁ Working with files and folders
+⦁ Automation of standard tasks
+⦁ System setting
 
-Лицензия: MIT — бери, используй, делись!
+License: MIT - take, use, share!
 
 ————————
 ################################################################################################################################################################
