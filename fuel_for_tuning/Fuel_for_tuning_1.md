@@ -1,1 +1,1 @@
-
+Sisadmin comes to a therapist and says: "Doctor, I have a problem. I constantly see mistakes and logs everywhere, even in a dream. I begin to think that I myself have become a server." The psychotherapist replies: "Do not worry, this is just a systemic mistake of your brain."
